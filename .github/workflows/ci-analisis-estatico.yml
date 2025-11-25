@@ -22,3 +22,4 @@ jobs:
 
       - name: Compilar y ejecutar análisis estático
         run: mvn -B clean verify
+
